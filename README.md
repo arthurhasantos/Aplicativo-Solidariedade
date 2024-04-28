@@ -10,6 +10,7 @@ Este é o repositório para o aplicativo de gerenciamento de projetos sociais pa
 - Filipe Faria Melo
 - Matheus Miranda Cançado
 - Victor Ferreira de Almeida
+- Davi Fernandes Ferreira Silva
 
 ### Funcionalidades Principais:
 
